@@ -1,6 +1,6 @@
 # Welcome to My Profile! 👋
 
-![Yellow Theme Banner](![iNkrgjATd2mu](https://github.com/user-attachments/assets/c5342e1c-dcfc-46d3-8e8c-4ce159fe2ee5)
+![Yellow Theme Banner](!iNkrgjATd2mu(https://github.com/user-attachments/assets/c5342e1c-dcfc-46d3-8e8c-4ce159fe2ee5)
 )  <!-- Optional: add an animated banner -->
 
 ## About Me
