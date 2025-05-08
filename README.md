@@ -15,7 +15,7 @@ Hello! I'm **Marielle J. Rectin**, a passionate **developer** and **tech enthusi
 
 ## GitHub Stats 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onlymarkive&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)  
 <!-- Replace [YourGitHubUsername] with your actual GitHub username -->
 
 Here are some of my GitHub stats! You can see the number of commits, repos, and other activities displayed above.
