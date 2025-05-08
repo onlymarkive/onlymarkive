@@ -1,6 +1,7 @@
 # Welcome to My Profile! 👋
 
-![Yellow Theme Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fitstheflashpack&psig=AOvVaw1ufsMyIejkEnK0SEtWcb00&ust=1746782957417000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJC8n-HHk40DFQAAAAAdAAAAABAE)  <!-- Optional: add an animated banner -->
+![Yellow Theme Banner](![iNkrgjATd2mu](https://github.com/user-attachments/assets/c5342e1c-dcfc-46d3-8e8c-4ce159fe2ee5)
+)  <!-- Optional: add an animated banner -->
 
 ## About Me
 Hello! I'm **Marielle J. Rectin**, a passionate **developer** and **tech enthusiast**! I love coding and building cool stuff that makes life easier. Here's a little more about me:
