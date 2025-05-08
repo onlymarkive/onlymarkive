@@ -3,12 +3,12 @@
 ![Yellow Theme Banner](https://your-image-link.com/banner.gif)  <!-- Optional: add an animated banner -->
 
 ## About Me
-Hello! I'm **[Your Name]**, a passionate **developer** and **tech enthusiast**! I love coding and building cool stuff that makes life easier. Here's a little more about me:
+Hello! I'm **Marielle J. Rectin**, a passionate **developer** and **tech enthusiast**! I love coding and building cool stuff that makes life easier. Here's a little more about me:
 
 - 🌱 I'm currently learning **[technologies you're learning]**
 - 💻 I love working with **[languages/tools you use]**
 - 🎯 My goal is to contribute to open-source and build impactful applications.
-- 📫 How to reach me: **[your-email@example.com]**
+- 📫 How to reach me: **[mariellerectin@gmail.com]**
 
 ---
 
