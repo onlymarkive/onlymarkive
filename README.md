@@ -2,10 +2,10 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science student passionate about building real-world systems that combine software engineering, data, and practical problem-solving.  
-I enjoy developing web applications, backend systems, and project-based solutions that solve real user needs—especially in education, healthcare, and productivity domains.
+I'm a Computer Science student passionate about software engineering and building real-world systems.  
+I enjoy developing full-stack web applications, backend systems, and embedded solutions that solve practical problems in education, healthcare, and productivity.
 
-Currently improving my skills in full-stack development, system design, and AI-integrated applications.
+Currently, I am strengthening my skills in full-stack development, backend systems, database management, and embedded software development while exploring system design and scalable application architecture.
 
 ---
 
@@ -15,62 +15,83 @@ Currently improving my skills in full-stack development, system design, and AI-i
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### Web Development
+---
+
+### Web & Mobile Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+
+---
+
+### Databases
+MySQL • PostgreSQL • Firebase
+
+---
 
 ### Tools & Technologies
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+Git • VS Code • Android Studio • Figma • Arduino • TensorFlow • Jupyter Notebook
+
+---
+
+### Core Skills
+Object-Oriented Programming (OOP) • Problem-Solving • Agile Development (basic understanding) • Communication • Responsive UI Design • Team Collaboration
 
 ---
 
 ## 🎯 Featured Projects
 
-### 🏥 PULSE: Hospital Management & Routing System
-- GIS-enabled mobile system for hospital routing and emergency management
-- AI-driven predictive analytics and chatbot integration
-- Built using Flutter, Firebase, and system-level architecture concepts
+### 🏥 PULSE – AI-Enabled Hospital Management & Routing System
+- Developed a cross-platform Flutter application integrated with Firebase for hospital management and emergency routing  
+- Implemented GIS-based mapping and predictive modeling for improved emergency response efficiency  
+- Designed system workflow with real-time data handling and chatbot support  
 
-### 🛒 GreenCartApp
-- Eco-friendly shopping system with budgeting and reward points
-- Implements OOP principles (encapsulation, inheritance, polymorphism)
-- Built using Java + MySQL integration
+---
 
-### 🎓 Test Genius: Quiz & Exam System
-- Console-based quiz system with admin/student roles
-- Features authentication, quiz management, and score tracking
-- Built in C++ with database integration concepts
+### 🏠 NEAR-U – Student Housing Management System
+- Built a full-stack web application using Laravel 12 and PostgreSQL for dormitory discovery and management  
+- Implemented role-based authentication, verification system, and real-time messaging features  
+- Developed REST-style backend workflows with responsive UI and dark mode support  
+
+---
+
+### 🌱 PRESENCE – Energy-Saving Automation System
+- Designed an embedded system that detects human presence for automated electrical device control  
+- Integrated sensor-based logic for real-time energy efficiency automation  
+
+---
+
+### 🚦 APAC – Arduino-Based Crosswalk System
+- Created a microcontroller-based pedestrian traffic system using Arduino  
+- Applied embedded programming and sensor integration for automated crosswalk control  
 
 ---
 
 ## 📊 GitHub Stats
 
-> Replace `your-username` with your actual GitHub username
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=onlymarkive&show_icons=true&theme=radical)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onlymarkive&layout=compact&theme=radical)
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariellerectin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariellerectin@gmail.com)
 
 ---
 
 ## ⭐ Fun Fact
 
-I enjoy turning complex problems into simple, functional systems—and I prefer building projects that actually solve real-world problems instead of just being theoretical.
+I enjoy building systems that combine software, data, and real-world problem solving—especially projects that are practical, scalable, and user-focused.
 
 ---
 
-📫 **How to reach me:** your.email@example.com
+📫 **How to reach me:** mariellerectin@gmail.com
